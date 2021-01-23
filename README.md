@@ -1,25 +1,21 @@
 # README
+credit for this myapp tryout: https://rubyonrails.org
+The web app support for make posts, update posts, delete posts, and make comments under the posts
+routes and functions: http://localhost:3000/posts
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version: 2.7.2
+* Rails version             6.1.1
 
-* System dependencies
+* Ruby version              ruby 2.7.2p137 (2020-10-01 revision 5445e04352) [arm64-darwin20]
 
-* Configuration
+* RubyGems version          3.1.4
 
-* Database creation
+* Environment               development
 
-* Database initialization
+* Database adapter          mysql2
 
-* How to run the test suite
+* Database schema version   20210123130325
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rack version              2.2.3
 
